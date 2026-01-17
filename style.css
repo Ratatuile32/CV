@@ -7,6 +7,16 @@ nav{
     inset: 0;
     z-index: -1;
 }
+a{
+    border: 1px solid;
+    padding: 20px 40px;
+    border-radius: 15px;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    border-color: blueviolet;
+    background-color: #222429;
+}
 .star-layer{
     width: var(--size);
     height: var(--size);
